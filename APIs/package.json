@@ -1,0 +1,17 @@
+{
+  "name": "movie_search",
+  "version": "1.0.0",
+  "description": "APIs demo",
+  "main": "first_request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gary Janes",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {}
+}
